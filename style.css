@@ -15,3 +15,9 @@
     src: url("./assets/Vazir-Bold.ttf");
     font-weight: bold;
 }
+
+.container {
+    width: 60rem;
+    margin: 1rem auto;
+    display: flex;
+}
