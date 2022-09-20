@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body {
+    direction: rtl;
+    background: #504d4d;
+}
+
 @font-face {
     font-family: Vazir;
     src: url("./assets/Vazir.ttf");
