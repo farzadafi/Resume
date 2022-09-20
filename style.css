@@ -29,3 +29,9 @@
     width: 31.25%;
     display: inline-block;
 }
+
+.right-side-bar-color {
+    position: absolute;
+    background: #3b4244;
+    z-index: -1;
+}
