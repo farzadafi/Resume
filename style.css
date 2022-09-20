@@ -9,3 +9,9 @@
     src: url("./assets/Vazir.ttf");
     font-weight: normal;
 }
+
+@font-face {
+    font-family: Vazir;
+    src: url("./assets/Vazir-Bold.ttf");
+    font-weight: bold;
+}
