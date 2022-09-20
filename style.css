@@ -39,3 +39,9 @@
 .profile-image {
     margin-bottom: 10px;
 }
+
+.profile-image img {
+    max-width: 100%;
+    border: 0.25em solid #fff;
+    border-radius: 50%;
+}
