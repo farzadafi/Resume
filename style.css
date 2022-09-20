@@ -21,3 +21,11 @@
     margin: 1rem auto;
     display: flex;
 }
+
+.right-side-bar {
+    position: relative;
+    color: #fff;
+    padding: 1em 1em 20em;
+    width: 31.25%;
+    display: inline-block;
+}
