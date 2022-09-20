@@ -35,3 +35,7 @@
     background: #3b4244;
     z-index: -1;
 }
+
+.profile-image {
+    margin-bottom: 10px;
+}
