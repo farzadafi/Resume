@@ -3,3 +3,9 @@
     margin: 0;
     padding: 0;
 }
+
+@font-face {
+    font-family: Vazir;
+    src: url("./assets/Vazir.ttf");
+    font-weight: normal;
+}
