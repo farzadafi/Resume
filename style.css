@@ -37,6 +37,10 @@ body {
 
 .right-side-bar-color {
     position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
     background: #3b4244;
     z-index: -1;
 }
