@@ -55,6 +55,16 @@ body {
     border-radius: 50%;
 }
 
+.font-bold {
+    font-weight: bold;
+}
+
 .small-text {
     font-size: 11px;
+}
+
+.item .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
