@@ -68,3 +68,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+hr {
+    color: rgb(200, 79, 7);
+}
