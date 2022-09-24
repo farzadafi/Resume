@@ -54,3 +54,7 @@ body {
     border: 0.25em solid #fff;
     border-radius: 50%;
 }
+
+.small-text {
+    font-size: 11px;
+}
