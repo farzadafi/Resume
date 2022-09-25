@@ -82,6 +82,6 @@ hr {
 .center-bold-font {
     display: flex;
     justify-content: center;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: bold;
 }
