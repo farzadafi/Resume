@@ -73,6 +73,13 @@ hr {
     color: rgb(200, 79, 7);
 }
 
+.center-small-font {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
 .center-font {
     display: flex;
     justify-content: center;
