@@ -30,7 +30,7 @@ body {
 .right-side-bar {
     position: relative;
     color: black;
-    padding: 1em 1em 20em;
+    padding: 1em 1em 1em;
     width: 31.25%;
     display: inline-block;
 }
