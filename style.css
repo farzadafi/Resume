@@ -93,3 +93,8 @@ hr {
     font-size: 15px;
     font-weight: bold;
 }
+
+.circle-row {
+    display: flex;
+    flex-direction: row;
+}
