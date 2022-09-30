@@ -27,6 +27,7 @@ body {
     margin: 1rem auto;
     display: flex;
     background-color: rgb(255, 238, 228);
+    border-radius: 1em;
 }
 
 .right-side-bar {
