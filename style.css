@@ -33,17 +33,7 @@ body {
     padding: 1em 1em 1em;
     width: 31.25%;
     display: inline-block;
-}
 
-.right-side-bar-color {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-    background: rgb(230, 126, 0);
-    z-index: -1;
-    border-radius: 2em;
 }
 
 .profile-image {
