@@ -22,7 +22,8 @@ body {
 }
 
 .container {
-    width: 60rem;
+    height: 58em;
+    width: 42rem;
     margin: 1rem auto;
     display: flex;
     background-color: rgb(255, 238, 228);
