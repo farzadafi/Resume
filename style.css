@@ -102,3 +102,7 @@ hr {
 .black {
     background-color: black;
 }
+
+.left-side-bar {
+    width: 450px;
+}
