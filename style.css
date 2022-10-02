@@ -105,8 +105,7 @@ hr {
 
 .left-side-bar {
     width: 400px;
-    margin-right: 30px;
-    margin-top: 5px;
+    margin : 5px 30px 0 30px
 }
 
 .contact-information {
