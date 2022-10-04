@@ -105,7 +105,7 @@ hr {
 
 .left-side-bar {
     width: 400px;
-    margin : 5px 30px 0 30px
+    margin: 5px 30px 0 30px
 }
 
 .item .row-without-space {
@@ -119,5 +119,9 @@ hr {
 }
 
 .font-awesome-color {
-     color: rgb(230, 126, 0);
+    color: rgb(230, 126, 0);
+}
+
+a {
+    text-decoration: none;
 }
