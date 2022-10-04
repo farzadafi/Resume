@@ -117,3 +117,7 @@ hr {
 .item .row-without-space > a {
     margin-left: 20px;
 }
+
+.phone {
+     color: rgb(230, 126, 0);
+}
