@@ -130,3 +130,9 @@ a {
 .skills-section {
     direction: ltr;
 }
+
+.skills-section > hr {
+    background-color:  rgb(230, 126, 0);
+    border: none;
+    height: 2px;
+}
