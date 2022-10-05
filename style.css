@@ -136,3 +136,11 @@ a {
     border: none;
     height: 2px;
 }
+
+.vertical-rule {
+    position: absolute;
+    margin: 30px 10px 0 0;
+    border-left:3px solid rgb(230, 126, 0);
+    height:715px;
+    display: inline
+}
