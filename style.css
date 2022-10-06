@@ -144,3 +144,10 @@ a {
     height:715px;
     display: inline
 }
+
+.big-circle {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(230, 126, 0);
+}
