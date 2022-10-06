@@ -139,7 +139,7 @@ a {
 
 .vertical-rule {
     position: absolute;
-    margin: 30px 10px 0 0;
+    margin: 30px 30px 0 9px;
     border-left:3px solid rgb(230, 126, 0);
     height:715px;
     display: inline
@@ -150,4 +150,9 @@ a {
     width: 20px;
     border-radius: 50%;
     background-color: rgb(230, 126, 0);
+}
+
+.java-se {
+    display: inline-block;
+    margin: 10px 0 0 0;
 }
