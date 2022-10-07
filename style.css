@@ -160,6 +160,7 @@ a {
 .skills-items {
     display: list-item;
     margin-left: 50px;
+    margin-bottom: 3px;
 }
 
 .inline-block-display {
