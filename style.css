@@ -161,3 +161,7 @@ a {
     display: list-item;
     margin-left: 50px;
 }
+
+.inline-block-display {
+    display: inline-block;
+}
